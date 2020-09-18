@@ -1,0 +1,46 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.siteheader {
+    background-color: white;
+}
+.headername {
+    margin: auto;
+    width: 600px;
+    padding: 20px;
+}
+.headername h1 {
+    margin: 0px;
+
+}
+
+.feed-container {
+    background-color: rgb(216, 216, 216);
+    overflow: hidden;
+}
+.post-container {
+    background: white;
+    width: 600px;
+    margin: 60px auto 60px;
+}
+
+.postname {
+    float: left;
+    font-weight: bold;
+    padding: 15px;
+}
+.postdate {
+    float: right;
+    color: gray;
+    padding: 15px;
+}
+img {
+    width: 600px;
+    height: auto;
+}
+
+.description{
+    padding: 25px;
+}
